@@ -1,0 +1,12 @@
+{
+  "name": "udacity",
+  "displayName": "udacity",
+  "expo": {
+    "name": "udacity",
+    "slug": "udacity",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
