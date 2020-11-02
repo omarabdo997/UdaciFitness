@@ -2,11 +2,21 @@
   "name": "udacity",
   "displayName": "udacity",
   "expo": {
-    "name": "udacity",
-    "slug": "udacity",
+    "name": "UdaciFitness",
+    "slug": "udacfitness",
+    "description": "The best triathlon tracker",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "sdkVersion": "39.0.0",
+    "icon": "https://maxcdn.icons8.com/Color/PNG/512/Sports/triathlon-512.png",
+    "orientation": "portrait",
+    "notification": {
+      "icon": "https://maxcdn.icons8.com/Color/PNG/512/Sports/triathlon-512.png"
+    },
+    "ios": {
+      "bundleIdentifier": "org.udacifitness.exp"
+    },
+    "android": {
+      "package": "org.udacifitness.exp"
+    }
   }
 }
